@@ -1,0 +1,25 @@
+# Allowlist: ignore everything, then include only source code.
+# Voice recordings, transcripts, models, jobs and outputs stay local.
+/*
+!/.gitignore
+!/README.md
+!/tts_api.py
+!/run_part.py
+!/voice_job.sh
+!/lexicon.tsv
+!/bin/
+!/lib/
+!/recorder/
+!/tests/
+!/windows/
+!/windows_client/
+!/benchmarks/
+/benchmarks/*
+!/benchmarks/*.py
+**/__pycache__/
+*.pyc
+*.wav
+*.m4a
+*.mp3
+*.flac
+*.log

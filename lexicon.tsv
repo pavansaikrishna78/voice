@@ -1,0 +1,162 @@
+# english<TAB>telugu-script pronunciation. Longest match wins. Case-insensitive, except
+# all-caps entries of 4 letters or fewer, which match only in capitals (IT is not "it").
+# Plurals of an entry are handled automatically (Assessees -> అసెస్సీలు).
+Assessee	అసెస్సీ
+Assessment	అసెస్‌మెంట్
+Assessment Year	అసెస్‌మెంట్ ఇయర్
+Assessing Officer	అసెస్సింగ్ ఆఫీసర్
+Previous Year	ప్రీవియస్ ఇయర్
+Financial Year	ఫైనాన్షియల్ ఇయర్
+Tax Year	టాక్స్ ఇయర్
+HUF	హెచ్ యు ఎఫ్
+LLP	ఎల్ ఎల్ పి
+TDS	టి డి ఎస్
+TCS	టి సి ఎస్
+PAN	పాన్
+TAN	టాన్
+ITR	ఐ టి ఆర్
+AOP	ఏ ఓ పి
+BOI	బి ఓ ఐ
+CBDT	సి బి డి టి
+ICAI	ఐ సి ఏ ఐ
+GST	జి ఎస్ టి
+AY	ఏ వై
+FY	ఎఫ్ వై
+PY	పి వై
+CA	సి ఏ
+NRI	ఎన్ ఆర్ ఐ
+ROR	ఆర్ ఓ ఆర్
+RNOR	ఆర్ ఎన్ ఓ ఆర్
+HRA	హెచ్ ఆర్ ఏ
+LTA	ఎల్ టి ఏ
+PPF	పి పి ఎఫ్
+NPS	ఎన్ పి ఎస్
+EPF	ఇ పి ఎఫ్
+MAT	మ్యాట్
+AMT	ఏ ఎం టి
+STT	ఎస్ టి టి
+IT	ఐ టి
+Income Tax	ఇన్‌కమ్ టాక్స్
+Income-tax	ఇన్‌కమ్ టాక్స్
+Income	ఇన్‌కమ్
+Tax	టాక్స్
+Taxable	టాక్సబుల్
+Taxation	టాక్సేషన్
+Taxpayer	టాక్స్‌పేయర్
+Section	సెక్షన్
+Sub-section	సబ్ సెక్షన్
+Subsection	సబ్ సెక్షన్
+Clause	క్లాజ్
+Sub-clause	సబ్ క్లాజ్
+Proviso	ప్రొవైసో
+Explanation	ఎక్స్‌ప్లనేషన్
+Schedule	షెడ్యూల్
+Act	యాక్ట్
+Rule	రూల్
+Finance Act	ఫైనాన్స్ యాక్ట్
+Company	కంపెనీ
+Companies	కంపెనీలు
+Firm	ఫర్మ్
+Partner	పార్ట్‌నర్
+Partnership	పార్ట్‌నర్‌షిప్
+Individual	ఇండివిడ్యువల్
+Person	పర్సన్
+Resident	రెసిడెంట్
+Non-resident	నాన్ రెసిడెంట్
+Rebate	రిబేట్
+Surcharge	సర్‌చార్జ్
+Cess	సెస్
+Deduction	డిడక్షన్
+Exemption	ఎగ్జెంప్షన్
+Salary	శాలరీ
+Salaries	శాలరీలు
+Perquisite	పెర్క్విజిట్
+Allowance	అలవెన్స్
+House Property	హౌస్ ప్రాపర్టీ
+Business	బిజినెస్
+Profession	ప్రొఫెషన్
+Capital Gains	క్యాపిటల్ గెయిన్స్
+Capital Asset	క్యాపిటల్ అసెట్
+Other Sources	అదర్ సోర్సెస్
+Gross Total Income	గ్రాస్ టోటల్ ఇన్‌కమ్
+Total Income	టోటల్ ఇన్‌కమ్
+Slab	స్లాబ్
+Slab Rate	స్లాబ్ రేట్
+Rate	రేట్
+Return	రిటర్న్
+Refund	రిఫండ్
+Advance Tax	అడ్వాన్స్ టాక్స్
+Depreciation	డిప్రిసియేషన్
+Audit	ఆడిట్
+Tax Audit	టాక్స్ ఆడిట్
+Set-off	సెట్ ఆఫ్
+Carry Forward	క్యారీ ఫార్వర్డ్
+Dividend	డివిడెండ్
+Interest	ఇంటరెస్ట్
+Agricultural Income	అగ్రికల్చరల్ ఇన్‌కమ్
+Trust	ట్రస్ట్
+Old Regime	ఓల్డ్ రెజీమ్
+New Regime	న్యూ రెజీమ్
+Form	ఫామ్
+Exam	ఎగ్జామ్
+Slide	స్లైడ్
+Example	ఎగ్జాంపుల్
+lakh	లక్ష
+lakhs	లక్షలు
+crore	కోటి
+crores	కోట్లు
+and	అండ్
+or	ఆర్
+of	ఆఫ్
+January	జనవరి
+February	ఫిబ్రవరి
+March	మార్చి
+April	ఏప్రిల్
+May	మే
+June	జూన్
+July	జూలై
+August	ఆగస్టు
+September	సెప్టెంబర్
+October	అక్టోబర్
+November	నవంబర్
+December	డిసెంబర్
+# Added for Part 1 (Person and Assessee)
+Students	స్టూడెంట్స్
+Definition	డెఫినిషన్
+Definitions	డెఫినిషన్స్
+Hindu Undivided Family	హిందూ అన్‌డివైడెడ్ ఫ్యామిలీ
+Association of Persons	అసోసియేషన్ ఆఫ్ పర్సన్స్
+Association	అసోసియేషన్
+Body of Individuals	బాడీ ఆఫ్ ఇండివిడ్యువల్స్
+Local Authority	లోకల్ అథారిటీ
+Artificial Juridical Person	ఆర్టిఫిషియల్ జ్యురిడికల్ పర్సన్
+Assessee in Default	అసెస్సీ ఇన్ డిఫాల్ట్
+Deemed Assessee	డీమ్డ్ అసెస్సీ
+Assess	అసెస్
+Deem	డీమ్
+Employer	ఎంప్లాయర్
+Includes	ఇన్‌క్లూడ్స్
+Inclusive	ఇన్‌క్లూజివ్
+Incorporate	ఇన్‌కార్పొరేట్
+List	లిస్ట్
+Municipality	మునిసిపాలిటీ
+Proceeding	ప్రొసీడింగ్
+# Added 2026-11-07 for the YouTube video pipeline (Claude, Python, FFmpeg were mispronounced)
+Claude	క్లాడ్
+Python	పైథాన్
+FFmpeg	ఎఫ్ ఎఫ్ ఎంపెగ్
+ffprobe	ఎఫ్ ఎఫ్ ప్రోబ్
+YouTube	యూట్యూబ్
+JSON	జేసన్
+GPU	జి పి యు
+CPU	సి పి యు
+NVENC	ఎన్ వి ఎంక్
+CogVideoX	కాగ్ వీడియో ఎక్స్
+Ubuntu	ఉబుంటు
+Windows	విండోస్
+PowerShell	పవర్ షెల్
+SSH	ఎస్ ఎస్ హెచ్
+Linux	లినక్స్
+pipeline	పైప్‌లైన్
+script	స్క్రిప్ట్
+server	సర్వర్
